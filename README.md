@@ -15,7 +15,7 @@ https://github.com/valentina1702/markdown-portfolio
 
 ## Uploading your project:
 ### Repository:
-https://github.com/valentina1702/github-upload
+https://github.com/valentina1702/python-project-upload.git
 
 
 #### Attached is the screenshot:
